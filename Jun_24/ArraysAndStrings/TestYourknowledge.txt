@@ -1,0 +1,7 @@
+1. Use stringbuilder when there's a lot of string manipulations. SB is mutable thus enhacing performance
+2. System.Array
+3. Sort arrays using Array.Sort()
+4. Length
+5. No, only one type
+6. CopyTo() requires an existing array as destination, while Clone() returns an array obj.
+   CopyTo() allows specifying the start index to copy.

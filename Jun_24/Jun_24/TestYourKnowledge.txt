@@ -1,0 +1,39 @@
+1.  phone number: string
+    height: float or double
+    age: int
+    gender: enum
+    salary: decimal
+    book;s ISBN: string
+    price: decimal
+    shipping weight: float or double
+    population: long
+    number of stars: BigInteger
+    number of employees: int
+    
+2.  value types are stored in the stack while ref types in the heap
+    value types contain actual data while ref contains references
+    value types won't be collected by GC
+    value types can be created by struct or enum hile ref type can be created by class, interface, delegate or array
+    value types won't accept null while ref types will
+    
+    Boxing is converting value type to ref type, unboxing is the other way around
+3.  Managed Resource is managed by .NET runtime, will be collected by GC
+    Unmanaged Resource is managed by OS, like file handles, database connections
+    
+4. GC is to automatically manage memory by reclaiming memory occupied by unreachable objects
+
+
+Controlling Flow and Converting Types
+1.  Throws a System.DivideByZeroException
+2.  Returns an infinity, could be positive or negative
+3.  Overflow will wrap around to the minimum or maximum value of int type
+4.  x = y++, x is assigned the value of y, then y increments
+    x = ++y, y increments then x is assigned.
+5.  Break: Exits the loop;
+    Continue: Skip current iteration only
+    Return: Exits current method
+6.  Initialization, condition, iteration, none is required
+7.  = is assignment operator, == is equality operator
+8.  Yes, it's an infinite loop
+9.  _ represents the default case
+10. IEnumerable

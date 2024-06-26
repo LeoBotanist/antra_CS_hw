@@ -1,0 +1,15 @@
+/Users/toimagine/antra_CS_hw/Jun_24/ArraysAndStrings/bin/Debug/net8.0/ArraysAndStrings
+/Users/toimagine/antra_CS_hw/Jun_24/ArraysAndStrings/bin/Debug/net8.0/ArraysAndStrings.deps.json
+/Users/toimagine/antra_CS_hw/Jun_24/ArraysAndStrings/bin/Debug/net8.0/ArraysAndStrings.runtimeconfig.json
+/Users/toimagine/antra_CS_hw/Jun_24/ArraysAndStrings/bin/Debug/net8.0/ArraysAndStrings.dll
+/Users/toimagine/antra_CS_hw/Jun_24/ArraysAndStrings/bin/Debug/net8.0/ArraysAndStrings.pdb
+/Users/toimagine/antra_CS_hw/Jun_24/ArraysAndStrings/obj/Debug/net8.0/ArraysAndStrings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/toimagine/antra_CS_hw/Jun_24/ArraysAndStrings/obj/Debug/net8.0/ArraysAndStrings.AssemblyInfoInputs.cache
+/Users/toimagine/antra_CS_hw/Jun_24/ArraysAndStrings/obj/Debug/net8.0/ArraysAndStrings.AssemblyInfo.cs
+/Users/toimagine/antra_CS_hw/Jun_24/ArraysAndStrings/obj/Debug/net8.0/ArraysAndStrings.csproj.CoreCompileInputs.cache
+/Users/toimagine/antra_CS_hw/Jun_24/ArraysAndStrings/obj/Debug/net8.0/ArraysAndStrings.sourcelink.json
+/Users/toimagine/antra_CS_hw/Jun_24/ArraysAndStrings/obj/Debug/net8.0/ArraysAndStrings.dll
+/Users/toimagine/antra_CS_hw/Jun_24/ArraysAndStrings/obj/Debug/net8.0/refint/ArraysAndStrings.dll
+/Users/toimagine/antra_CS_hw/Jun_24/ArraysAndStrings/obj/Debug/net8.0/ArraysAndStrings.pdb
+/Users/toimagine/antra_CS_hw/Jun_24/ArraysAndStrings/obj/Debug/net8.0/ArraysAndStrings.genruntimeconfig.cache
+/Users/toimagine/antra_CS_hw/Jun_24/ArraysAndStrings/obj/Debug/net8.0/ref/ArraysAndStrings.dll

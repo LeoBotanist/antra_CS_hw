@@ -1,0 +1,15 @@
+/Users/toimagine/antra_CS_hw/Jun_24/Jun_24/obj/Debug/net8.0/Jun_24.GeneratedMSBuildEditorConfig.editorconfig
+/Users/toimagine/antra_CS_hw/Jun_24/Jun_24/obj/Debug/net8.0/Jun_24.AssemblyInfoInputs.cache
+/Users/toimagine/antra_CS_hw/Jun_24/Jun_24/obj/Debug/net8.0/Jun_24.AssemblyInfo.cs
+/Users/toimagine/antra_CS_hw/Jun_24/Jun_24/obj/Debug/net8.0/Jun_24.csproj.CoreCompileInputs.cache
+/Users/toimagine/antra_CS_hw/Jun_24/Jun_24/obj/Debug/net8.0/Jun_24.sourcelink.json
+/Users/toimagine/antra_CS_hw/Jun_24/Jun_24/bin/Debug/net8.0/Jun_24
+/Users/toimagine/antra_CS_hw/Jun_24/Jun_24/bin/Debug/net8.0/Jun_24.deps.json
+/Users/toimagine/antra_CS_hw/Jun_24/Jun_24/bin/Debug/net8.0/Jun_24.runtimeconfig.json
+/Users/toimagine/antra_CS_hw/Jun_24/Jun_24/bin/Debug/net8.0/Jun_24.dll
+/Users/toimagine/antra_CS_hw/Jun_24/Jun_24/bin/Debug/net8.0/Jun_24.pdb
+/Users/toimagine/antra_CS_hw/Jun_24/Jun_24/obj/Debug/net8.0/Jun_24.dll
+/Users/toimagine/antra_CS_hw/Jun_24/Jun_24/obj/Debug/net8.0/refint/Jun_24.dll
+/Users/toimagine/antra_CS_hw/Jun_24/Jun_24/obj/Debug/net8.0/Jun_24.pdb
+/Users/toimagine/antra_CS_hw/Jun_24/Jun_24/obj/Debug/net8.0/Jun_24.genruntimeconfig.cache
+/Users/toimagine/antra_CS_hw/Jun_24/Jun_24/obj/Debug/net8.0/ref/Jun_24.dll
