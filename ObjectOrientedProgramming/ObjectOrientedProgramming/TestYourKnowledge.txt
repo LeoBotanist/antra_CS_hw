@@ -1,0 +1,57 @@
+1.  public: type or member can be accessed by any other code in any assembly
+    private: type or member can be accessed only in the same class or struct
+    protected: type or member can be accessed only in the same class or its derived class
+    internal: type or member can be accessed only in the same assembly
+    protected internal: only in the same assembly or derived classes in other assemblies
+    private protected: only derived types in the same assembly
+    
+2.  static: belongs to the type itself, not instances
+    const: compile-time constant, it cannot be changed and must be assigned at declaration
+    readonly: runtime constant, it can be assigned at declaration or in the constructor
+    
+3.  Constructor is used to initialize a new instance of a class, setting up initial values for fields and performing any setup
+
+4.  Partial keyword allows a class, struct, or interface to be split across multiple files, improving code organization
+
+5.  Tuple: a data structure that can hold a fixed number of items of different types
+
+6.  Record keyword defines a ref type that provides built-in functionality for encapsulation data with value semantics, like immutability and equality
+
+7.  Overloading: functions with same name but different signatures
+    Overriding: used in inheritance
+
+8.  Field: a variable in a class or struct
+    Property: a member that can read, write or compute the field values
+
+9.  By providing a default value for this parameter, has to be at the end of parameters list
+
+10. 1.  Abstract class will provide base class to its subclasses, is a wise choice when we have class hierarchy.
+        Interface will define common functionalities and behaviors that can be implemented by any class
+    2.  Once class can only inherit from one abstract or concrete class but one class can implement multiple interfaces
+    3.  Methods in abstract class can be abstract method or non-abstract method but in interface is by default public and abstract
+    
+11. Always public
+
+12. True
+
+13. True
+
+14. True
+
+15. False
+
+16. True
+
+17. True
+
+18. True
+
+19. False
+
+20. False
+
+21. True
+
+22. False
+
+23. True
